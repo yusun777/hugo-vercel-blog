@@ -24,4 +24,3 @@ Crawl-delay: 120
 Disallow: /cgi-bin/
 Disallow: /tags/
 Disallow: /categories/
-Sitemap: https://www.xxxxxxx.com/sitemap.xml
