@@ -2,7 +2,7 @@
 title: "ERC-20代币源码"
 date: 2021-08-26T22:14:48Z
 draft: false
-tags: ["开发", "Solidity", "以太坊", "区块链"]
+tags: ["开发", "solidity", "以太坊", "区块链"]
 categories: ["开发"]
 ---
 ### 下面是源码
