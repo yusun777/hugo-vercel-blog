@@ -24,3 +24,4 @@ Crawl-delay: 120
 Disallow: /cgi-bin/
 Disallow: /tags/
 Disallow: /categories/
+Sitemap: https://yusun777.vercel.app/sitemap.xml
